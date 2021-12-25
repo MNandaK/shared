@@ -1,2 +1,2 @@
 # shared
-This repo is for sharing codes
+This repo is for sharing sample codes
